@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/simple-gui/__init__.py
+src/simple-gui/main.py
+src/simple_gui_tlm.egg-info/PKG-INFO
+src/simple_gui_tlm.egg-info/SOURCES.txt
+src/simple_gui_tlm.egg-info/dependency_links.txt
+src/simple_gui_tlm.egg-info/top_level.txt

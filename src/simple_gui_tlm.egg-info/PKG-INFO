@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: simple-gui-tlm
+Version: 0.0.1
+Summary: A small example to illustrate how to package an app in python.
+Home-page: https://github.com/thyagomota/simple-gui
+Author: Thyago M.
+Author-email: thyagomota@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/thyagomota/simple-gui/issues
+Description: A small example to illustrate how to package an app in python. 
+        This package was created using the following tutorials:
+        * https://packaging.python.org/tutorials/packaging-projects/
+        * https://pypi.org/project/PySimpleGUI/
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
